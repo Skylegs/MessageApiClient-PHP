@@ -1,0 +1,19 @@
+{
+  "name": "RingRing-cloud/MessageApiClient-PHP",
+  "description": "RingRing Message API Client",
+  "authors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "require": {
+    "php": ">=7.*",
+  },
+  "autoload": {
+    "psr-4": {
+      "RingRing\\": "RingRing/"
+    }
+  },
+  "minimum-stability": "stable"
+}
